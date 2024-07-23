@@ -12,6 +12,6 @@ p {
   text-decoration-style: dashed;
   text-decoration-color: blue;
 }
-* {
-  background-color: aqua;
+body {
+  background-color: brown;
 }
