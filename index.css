@@ -13,5 +13,6 @@ p {
   text-decoration-color: blue;
 }
 body {
-  background-color: brown;
+  background-color: rgb(17, 16, 16);
+  color: antiquewhite;
 }
