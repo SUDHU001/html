@@ -1,16 +1,17 @@
-
-
-.edu-au-vic-wa-nt-hand-<uniquifier> {
+.edu-au-vic-wa-nt-hand-<uniquifier > {
   font-family: "Edu AU VIC WA NT Hand", cursive;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
 }
-p{
-    font-size: 30px ;
-    font-weight: 100px;
-    font-family: "Edu AU VIC WA NT Hand", cursive;
-    text-decoration: underline;
-    text-decoration-style: dashed ;
-    text-decoration-color:blue ;
+p {
+  font-size: 30px;
+  font-weight: 100px;
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-decoration-color: blue;
+}
+* {
+  background-color: aqua;
 }
